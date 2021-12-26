@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лаб2 Форма</string>
+    <string name="userName">Логошин Николай Сергеевич</string>
+    <string name="specialtyTitle">Математическое и программное обеспечение мобильных устройств</string>
+    <string name="groupNumber">Группа 9</string>
+    <string name="landscapeOrientation">Ландшафтная ориентация</string>
+    <string name="portraitOrientation">Портретная ориентация</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2Form</string>
+    <string name="userName">Logoshin Nikolai Sergeevich</string>
+    <string name="specialtyTitle">Mathematical and software development for mobile devices</string>
+    <string name="groupNumber">Group 9</string>
+    <string name="landscapeOrientation">Landscape Orientation</string>
+    <string name="portraitOrientation">Portrait Orientation</string>
+</resources>
